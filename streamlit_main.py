@@ -8,8 +8,8 @@ plant = st.selectbox(
 
 date_initial = st.date_input(
      "From:",
-     datetime.date(2019, 7, 6))
+     datetime.date(2022, 1, 1))
 
 date_initial = st.date_input(
      "To:",
-     datetime.date(2019, 7, 6))
+     datetime.date(2022, 1, 1))
